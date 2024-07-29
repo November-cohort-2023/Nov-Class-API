@@ -2,73 +2,27 @@
   "students": [
     {
       "id": 1,
-      "name": "Achraf",
-      "country": "Barcelona"
+      "name": "Daniel",
+      "country": "Spain"
     },
     {
       "id": 2,
-      "name": "Christian",
-      "country": "Germany"
-    },
-    {
-      "id": 3,
-      "name": "Diogo",
-      "country": "Portugal"
-    },
-    {
-      "id": 4,
-      "name": "Eduardo",
-      "country": "Portugal"
-    },
-    {
-      "id": 5,
-      "name": "Ioannis",
-      "country": "Germany"
-    },
-    {
-      "id": 6,
-      "name": "Irene",
+      "name": "Judi",
       "country": "Netherlands"
     },
     {
-      "id": 7,
-      "name": "Jorge",
-      "country": "Germany"
-    },
-    {
-      "id": 8,
-      "name": "Juan",
+      "id": 3,
+      "name": "Toni",
       "country": "Spain"
     },
     {
-      "id": 9,
-      "name": "Marta",
-      "country": "France"
+      "id": 4,
+      "name": "Eleftherios",
+      "country": "Greece"
     },
     {
-      "id": 10,
-      "name": "Mohammad",
-      "country": "Germany"
-    },
-    {
-      "id": 11,
-      "name": "Monica",
-      "country": "Portugal"
-    },
-    {
-      "id": 12,
-      "name": "Nadine",
-      "country": "Germany"
-    },
-    {
-      "id": 13,
-      "name": "Natalia",
-      "country": "Spain"
-    },
-    {
-      "id": 14,
-      "name": "Eleanor",
-      "country": "Spain"
-    }
-  ]
-}
+      "id": 5,
+      "name": "Mikko",
+      "country": "Netherlands"
+    },  ]
+  }
